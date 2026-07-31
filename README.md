@@ -4,11 +4,11 @@
 ### **Senior Software QA & Test Automation Engineer | SDET Architect**
 **Location:** Dhaka, Bangladesh | **Email:** [rahman.atiqur.pro@gmail.com](mailto:rahman.atiqur.pro@gmail.com)
 
-[![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
-[![Live CV Website](https://img.shields.io/badge/Live_CV-atiqur--rahman--pro.github.io%2Fcv-success?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-atiqur--rahman--pro.github.io-2088FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atiqur--rahman--pro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
-[![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
+[![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
+[![Live CV Website](https://img.shields.io/badge/Live_CV-atiqur--rahman--pro.github.io%2Fcv-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-atiqur--rahman--pro.github.io-0969da?style=flat-square&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atiqur--rahman--pro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
+[![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
 
 ---
 
