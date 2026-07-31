@@ -57,8 +57,8 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 
 <div align="center">
 
-[![Atiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiqur-rahman-pro&show_icons=true&theme=radial&hide_border=true)](https://github.com/atiqur-rahman-pro)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atiqur-rahman-pro&layout=compact&theme=radial&hide_border=true)](https://github.com/atiqur-rahman-pro)
+[![Atiqur's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=atiqur-rahman-pro&show_icons=true&theme=dark&hide_border=true)](https://github.com/atiqur-rahman-pro)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atiqur-rahman-pro&layout=compact&theme=dark&hide_border=true)](https://github.com/atiqur-rahman-pro)
 
 </div>
 
