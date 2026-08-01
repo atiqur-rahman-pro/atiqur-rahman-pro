@@ -77,11 +77,33 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 
 ---
 
-## 🎓 Certifications & Professional Education
+## 🏆 Verified Licenses & Certifications (15 Total)
 
-* 📜 **Python Certified Entry-Level Programmer (PCEP)**
-* 🏅 **Microsoft Open Source Contributor** (Playwright Python)
-* 🎙️ **Founder & Lead Creator** — [@Digital_Digest_Live](https://www.youtube.com/@Digital_Digest_Live) (Trending Tech News | Tech News Today | QA & Software Engineering Education)
+### 🐍 **Python Programming (Logical Operations & Python Institute)**
+- 📜 **PCEP: Python Conditionals, Loops, Functions, and Exceptions** | *Credential ID: CAVECYWB33K4*
+- 📜 **PCEP: Python Data Processing** | *Credential ID: OUSRQ2N4KRYX*
+- 📜 **PCEP: Python Setup** | *Credential ID: TGAGSODQDW15*
+
+### 🤖 **AI & Machine Learning (Google & Anthropic Certified)**
+- 🤖 **Claude Platform 101** | Anthropic | *Credential ID: kts8z8ja8m9c*
+- 🤖 **Claude Code 101 (Advanced)** | Anthropic | *Credential ID: 952n42eqxr9x*
+- 🤖 **Claude 101 (Foundational)** | Anthropic | *Credential ID: 75whzvh7gxdh*
+- 💡 **AI for App Building** | Google | *Credential ID: 1BS1KFZVSC0U*
+- 💡 **AI Fundamentals** | Google | *Credential ID: 86YBVLUOCIED*
+- 💡 **AI for Writing and Communicating** | Google | *Credential ID: UU04LRMQ3M4M*
+
+### 🧪 **QA Automation & Test Engineering**
+- 🧪 **Create Your First Automation Script Using Selenium and Java** | Coursera | *Credential ID: RSEYG7E8O5X4*
+- 🔌 **API Testing Using Rest Assured Test Automation Tool** | Coursera | *Credential ID: 822DTNGOJ0XO*
+- 🏅 **Microsoft Open Source Contributor** (Playwright Python) | *PR #3157 & #3159*
+
+### 📊 **Digital Marketing & Analytics (Google & Coursera)**
+- 📈 **Google Analytics Certification (2026)** | Google Skillshop | *Credential ID: 188040194*
+- 📊 **Getting Started in Google Analytics** | Coursera | *Credential ID: AN00C0Z5Q5XD*
+- 🔍 **Search Engine Optimization (SEO) with Squarespace** | Coursera | *Credential ID: AEQO76577Q0R*
+
+### 📋 **Project Management & Agile**
+- 📋 **Get Started with Jira (Kanban & Agile Methodologies)** | Coursera | *Credential ID: 3TCKH7AHUWG4*
 
 ---
 
