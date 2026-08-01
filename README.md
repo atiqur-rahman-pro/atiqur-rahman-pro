@@ -9,13 +9,14 @@
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-atiqur--rahman--pro.github.io-0969da?style=flat-square&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atiqur--rahman--pro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
 [![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support_My_Work-ff69b4?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/atiqur-rahman-pro)
 
 ---
 
 </div>
 
 ## 📌 Executive Summary
-Results-driven **Senior Software QA Engineer & SDET Architect** with extensive expertise in building scalable, production-grade test automation infrastructure, AI-augmented failure triaging engines, and multi-layered quality pipelines. Certified Python professional (PCEP) and official **Microsoft Open Source Contributor** (`microsoft/playwright-python#3157` & `#3159`). Creator of live technical web assets at [atiqur-rahman-pro.github.io/cv](https://atiqur-rahman-pro.github.io/cv/) and [atiqur-rahman-pro.github.io](https://atiqur-rahman-pro.github.io/).
+Results-driven **Senior Software QA Engineer & SDET Architect** with extensive expertise in building scalable, production-grade test automation infrastructure, AI-augmented failure triaging engines, and multi-layered quality pipelines. Certified Python professional (PCEP) and official **Open Source Contributor** (`microsoft/playwright-python`, `hybridops-tech/hybridops-core`, `GuyTeichman/rnalysis`). Creator of live technical web assets at [atiqur-rahman-pro.github.io/cv](https://atiqur-rahman-pro.github.io/cv/) and [atiqur-rahman-pro.github.io](https://atiqur-rahman-pro.github.io/).
 
 ---
 
@@ -35,13 +36,25 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 
 ## 🏅 Open Source Contributions
 
-### **1. Microsoft Playwright Python (`microsoft/playwright-python`)**
+### **1. HybridOps Core (`hybridops-tech/hybridops-core`)**
+* **Pull Requests:** [#258](https://github.com/hybridops-tech/hybridops-core/pull/258) (**MERGED 🟣**), [#255](https://github.com/hybridops-tech/hybridops-core/pull/255) (**APPROVED 🟢**)
+* **Impact:** Engineered an offline CI blueprint catalog validator scanning 28 shipped YAML blueprints and expanded CLI test coverage across all 20 public command surfaces.
+
+### **2. RNAlysis Bioinformatics Framework (`GuyTeichman/rnalysis`)**
+* **Pull Request:** [#70](https://github.com/GuyTeichman/rnalysis/pull/70) (**MERGED 🟣**)
+* **Impact:** Fixed organism typing parameter definitions and data schema validation in `rnalysis/utils/param_typing.py`.
+
+### **3. MCP Migrate Framework (`dheerajjha/mcp-migrate`)**
+* **Pull Request:** [#51](https://github.com/dheerajjha/mcp-migrate/pull/51) (**LIVE 🟢**)
+* **Impact:** Ported Rule R003 (`MissingRoutingHeaders`) to TypeScript with comment-aware `search_wire` scanner and unit test suite.
+
+### **4. Microsoft Playwright Python (`microsoft/playwright-python`)**
 * **Pull Requests:** [#3157](https://github.com/microsoft/playwright-python/pull/3157), [#3159](https://github.com/microsoft/playwright-python/pull/3159), [#3156](https://github.com/microsoft/playwright-python/pull/3156)
 * **Impact:** Fixed a critical live stack frame memory leak in `_sync_base.py` and resolved `UnicodeDecodeError` in `_network.py` for binary request bodies.
 
-### **2. Pytest Testing Framework (`pytest-dev/pytest`)**
-* **Pull Request:** [#14797](https://github.com/pytest-dev/pytest/pull/14797)
-* **Impact:** Restructured collection hooks documentation in `doc/en/reference/reference.rst` for Pytest reference guides.
+### **5. Pytest Testing Framework (`pytest-dev/pytest`)**
+* **Pull Request:** [#14797](https://github.com/pytest-dev/pytest/pull/14797), [#10721](https://github.com/pytest-dev/pytest/pull/10721)
+* **Impact:** Restructured collection hooks documentation and refactored test discovery reference guides.
 
 ---
 
