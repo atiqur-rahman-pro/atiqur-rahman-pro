@@ -9,7 +9,7 @@
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-atiqur--rahman--pro.github.io-0969da?style=flat-square&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atiqur--rahman--pro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
 [![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Support%20My%20Work-ff69b4?style=for-the-badge&logo=githubsponsors)](https://github.com/atiqur-rahman-pro)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support%20My%20Work-ff69b4?style=for-the-badge&logo=githubsponsors)](https://atiqur-rahman-pro.github.io/cv/)
 
 ---
 
