@@ -1,7 +1,7 @@
 <div align="center">
 
 # Atiqur Rahman
-### **Senior Software QA & Test Automation Engineer | SDET Architect**
+### **Software QA Engineer | SDET | Test Automation Architect | Microsoft Contributor | Open Source Contributor**
 **Location:** Dhaka, Bangladesh | **Email:** [rahman.atiqur.pro@gmail.com](mailto:rahman.atiqur.pro@gmail.com)
 
 [![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
