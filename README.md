@@ -2,21 +2,53 @@
 
 # Atiqur Rahman
 ### **Software QA Engineer | SDET | Test Automation Architect | Microsoft Contributor | Open Source Contributor**
-**Location:** Dhaka, Bangladesh | **Email:** [rahman.atiqur.pro@gmail.com](mailto:rahman.atiqur.pro@gmail.com)
 
-[![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
-[![Live CV Website](https://img.shields.io/badge/Live_CV-atiqur--rahman--pro.github.io%2Fcv-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-atiqur--rahman--pro.github.io-0969da?style=flat-square&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atiqur--rahman--pro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
-[![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Support%20My%20Work-ff69b4?style=for-the-badge&logo=githubsponsors)](https://atiqur-rahman-pro.github.io/cv/)
+📍 Dhaka, Bangladesh | ✉️ [rahman.arpro@gmail.com](mailto:rahman.arpro@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/atiqur-rahman-pro) | 🐙 [GitHub Profile](https://github.com/atiqur-rahman-pro)
+
+[![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
+[![Pytest Core Contributor](https://img.shields.io/badge/Pytest-Core_Contributor-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/pytest-dev/pytest/pull/14804)
+[![Live Portfolio Website](https://img.shields.io/badge/Live_Portfolio-atiqur--rahman--pro.github.io-2088FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
+[![Live Web CV](https://img.shields.io/badge/Live_CV-atiqur--rahman--pro.github.io%2Fcv-success?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
+[![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
 
 ---
 
 </div>
 
 ## 📌 Executive Summary
-Results-driven **Senior Software QA Engineer & SDET Architect** with extensive expertise in building scalable, production-grade test automation infrastructure, AI-augmented failure triaging engines, and multi-layered quality pipelines. Certified Python professional (PCEP) and official **Open Source Contributor** (`microsoft/playwright-python`, `hybridops-tech/hybridops-core`, `GuyTeichman/rnalysis`). Creator of live technical web assets at [atiqur-rahman-pro.github.io/cv](https://atiqur-rahman-pro.github.io/cv/) and [atiqur-rahman-pro.github.io](https://atiqur-rahman-pro.github.io/).
+
+Results-driven **Software QA Engineer**, **SDET Architect**, **Test Automation Specialist**, and **Microsoft Open Source Contributor** with **11+ years of full-time experience** at **Intelle Hub Inc**. Holder of **15 Verified Professional Certifications** across Python (3x PCEP Certified), **Docker Containerization**, **Jenkins CI/CD Pipelines**, **Anthropic Claude AI**, Google AI, Test Automation (Selenium & REST Assured), Analytics, and Jira Agile. Proven track record of architecting enterprise test frameworks, cutting regression testing cycles by up to 95%, and automating bug triaging via Jira Cloud REST APIs.
+
+---
+
+## 🏅 Merged Open Source Contributions
+
+| Project / Repository | Pull Requests | Key Architectural Contribution & Impact |
+| :--- | :--- | :--- |
+| **Microsoft Playwright Python** (`microsoft/playwright-python`) | [#3156](https://github.com/microsoft/playwright-python/pull/3156), [#3157](https://github.com/microsoft/playwright-python/pull/3157), [#3159](https://github.com/microsoft/playwright-python/pull/3159) | **Fixed live stack frame memory leak** in `_sync_base.py` by clearing task `__pw_stack__` upon completion, ensuring immediate garbage collection of caller local variables. Resolved `UnicodeDecodeError` in `_network.py` for binary request payloads. |
+| **Pytest Testing Framework** (`pytest-dev/pytest`) | [#14797](https://github.com/pytest-dev/pytest/pull/14797), [#14804](https://github.com/pytest-dev/pytest/pull/14804) | Restructured collection hooks documentation in `doc/en/reference/reference.rst` and enhanced core test runner reference guides. |
+
+---
+
+## 🏆 Verified Licenses & Certifications (15 Total)
+
+| Domain | Certification Title | Issuing Organization | Credential ID |
+| :--- | :--- | :--- | :--- |
+| 🐍 **Python** | PCEP: Python Conditionals, Loops, & Functions | Python Institute | `CAVECYWB33K4` |
+| 🐍 **Python** | PCEP: Python Data Processing | Python Institute | `OUSRQ2N4KRYX` |
+| 🐍 **Python** | PCEP: Python Setup | Python Institute | `TGAGSODQDW15` |
+| 🤖 **AI & LLM** | Claude Platform 101 | Anthropic Academy | `kts8z8ja8m9c` |
+| 🤖 **AI & LLM** | Claude Code 101 (Advanced) | Anthropic Academy | `952n42eqxr9x` |
+| 🤖 **AI & LLM** | Claude 101 (Foundational) | Anthropic Academy | `75whzvh7gxdh` |
+| 💡 **Google AI** | AI for App Building | Google Skillshop | `1BS1KFZVSC0U` |
+| 💡 **Google AI** | AI Fundamentals | Google Skillshop | `86YBVLUOCIED` |
+| 💡 **Google AI** | AI for Writing and Communicating | Google Skillshop | `UU04LRMQ3M4M` |
+| 📊 **Analytics** | Google Analytics Certification (2026-2027) | Google Skillshop | `188040194` |
+| 📊 **Analytics** | Getting Started in Google Analytics | Coursera | `AN00C0Z5Q5XD` |
+| 🧪 **QA Test** | Selenium & Java Test Automation | Coursera | `RSEYG7E8O5X4` |
+| 🔌 **API Test** | API Testing with Rest Assured | Coursera | `822DTNGOJ0XO` |
+| 🔍 **SEO** | SEO with Squarespace | Coursera | `AEQO76577Q0R` |
+| 📋 **Agile** | Get Started with Jira (Kanban & Agile) | Coursera | `3TCKH7AHUWG4` |
 
 ---
 
@@ -24,50 +56,51 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Automation Frameworks** | **Playwright**, **Pytest**, Selenium WebDriver, REST Assured, Appium 2.0 |
-| **Programming Languages** | **Python** (PCEP Certified), JavaScript/TypeScript, SQL, HTML5/CSS3 |
-| **AI & LLM Integrations** | **Claude AI API** (Anthropic), Autonomous Root-Cause Triage, Google NotebookLM, Kimi K3 |
-| **DevOps & CI/CD** | **Docker**, **GitHub Actions**, Jenkins Pipeline, Allure TestOps, Pytest-HTML |
-| **API & Backend Testing** | REST API Automation, Requests, Postman CLI, Webhooks, WireMock |
-| **Performance & Audit** | **Locust** (Code-based Load Testing), `axe-core`, Technical SEO Auditing |
-| **Project Management** | **Jira REST API Automation**, Confluence, Git Version Control, Agile/Scrum |
+| **Automation Frameworks** | **Playwright**, **Pytest**, Selenium WebDriver, REST Assured, Appium 2.0, Page Object Model (POM) |
+| **Programming Languages** | **Python 3.10+** (3x PCEP Certified), JavaScript / TypeScript, Java, SQL, HTML5/CSS3 |
+| **DevOps & Infrastructure** | **Docker** (Containerization & Compose), **Jenkins** (CI/CD Pipelines), **GitHub Actions**, Linux, Chrome Headless |
+| **AI & LLM Integration** | **Claude AI API** (Anthropic), Google Gemini API, Agentic Workflows, Structured JSON Enforcement |
+| **API & Backend Testing** | REST API Automation, FastAPI, Requests, Webhooks, WireMock, Postman |
+| **Project Management & QA** | **Jira REST API Automation**, Allure Reports, Confluence, Git Version Control |
 
 ---
 
-## 🏅 Open Source Contributions
+## 🚀 Featured Engineering & Open-Source Projects
 
-### **1. HybridOps Core (`hybridops-tech/hybridops-core`)**
-* **Pull Requests:** [#258](https://github.com/hybridops-tech/hybridops-core/pull/258) (**MERGED 🟣**), [#255](https://github.com/hybridops-tech/hybridops-core/pull/255) (**APPROVED 🟢**)
-* **Impact:** Engineered an offline CI blueprint catalog validator scanning 28 shipped YAML blueprints and expanded CLI test coverage across all 20 public command surfaces.
+### 1. **OmniAgent – Enterprise AI Workflow & Jira Automation Platform** | [GitHub Repo](https://github.com/atiqur-rahman-pro/omniagent-ai)
+*Engineered a full-stack, enterprise-grade AI workflow automation platform connecting Anthropic Claude and Google Gemini APIs with Jira REST API to auto-triage customer support issues into Jira tickets.*
+- Built zero-touch Jira REST API integration (`/rest/api/3/issue`) achieving 100% automated issue logging for critical bugs.
+- Formulated automated `pytest` API unit suites and Selenium UI test scripts.
 
-### **2. RNAlysis Bioinformatics Framework (`GuyTeichman/rnalysis`)**
-* **Pull Request:** [#70](https://github.com/GuyTeichman/rnalysis/pull/70) (**MERGED 🟣**)
-* **Impact:** Fixed organism typing parameter definitions and data schema validation in `rnalysis/utils/param_typing.py`.
+### 2. **12-Point Web Audit Automation Framework** | [GitHub Repo](https://github.com/atiqur-rahman-pro/web-audit-automation-framework)
+*Designed a production-grade automated diagnostic framework reducing website audit execution time from 4 hours to ~60 seconds (95% efficiency gain).*
+- Automated 12 diagnostic checks across Security (HTTPS/Headers), Performance (Navigation Timing API), and SEO.
+- Integrated Allure Reporting & GitHub Actions CI/CD for automated weekly audit runs.
 
-### **3. MCP Migrate Framework (`dheerajjha/mcp-migrate`)**
-* **Pull Request:** [#51](https://github.com/dheerajjha/mcp-migrate/pull/51) (**LIVE 🟢**)
-* **Impact:** Ported Rule R003 (`MissingRoutingHeaders`) to TypeScript with comment-aware `search_wire` scanner and unit test suite.
+### 3. **Enterprise Todo App & Playwright Automated Test Suite** | [GitHub Repo](https://github.com/atiqur-rahman-pro/todo-app)
+*Built a modern web-based task management application paired with an automated Playwright & Pytest end-to-end regression testing framework.*
+- Engineered E2E test scripts covering task creation, inline editing, completion toggles, state persistence (LocalStorage), and filter controls.
+- Configured cross-browser testing across Chromium, Firefox, and WebKit viewports executing automatically in GitHub Actions.
 
-### **4. Microsoft Playwright Python (`microsoft/playwright-python`)**
-* **Pull Requests:** [#3157](https://github.com/microsoft/playwright-python/pull/3157), [#3159](https://github.com/microsoft/playwright-python/pull/3159), [#3156](https://github.com/microsoft/playwright-python/pull/3156)
-* **Impact:** Fixed a critical live stack frame memory leak in `_sync_base.py` and resolved `UnicodeDecodeError` in `_network.py` for binary request bodies.
+### 4. **Universal Real-Time AI Voice Examiner & QA Prep Console** | [GitHub Repo](https://github.com/atiqur-rahman-pro/qa-interview-prep)
+*Serverless, browser-native AI voice examiner tool covering 110+ SDET & QA topics across 11 essential domains with Web Speech APIs and keyword auto-scoring.*
 
-### **5. Pytest Testing Framework (`pytest-dev/pytest`)**
-* **Pull Request:** [#14810](https://github.com/pytest-dev/pytest/pull/14810) (**MERGED & BACKPORTED TO PYTEST 9.1.x 💚**), [#14797](https://github.com/pytest-dev/pytest/pull/14797)
-* **Impact:** Fixed pytest core exception formatting; backported as official PR #14831 for Pytest 9.1.x release.
+### 5. **GA4 Business Intelligence & Analytics Dashboard** | [GitHub Repo](https://github.com/atiqur-rahman-pro/ga4-bi-dashboard)
+*Python-powered Business Intelligence dashboard integrating Google Analytics 4 API for real-time traffic and user behavior insights.*
 
-### **6. Jazzband Django Silk (`jazzband/django-silk`)**
-* **Pull Request:** [#895](https://github.com/jazzband/django-silk/pull/895) (**LIVE 🟢**)
-* **Impact:** Configured `pythonpath = project` in `pytest.ini` for seamless root test discovery across Django 5.x/6.x.
+### 6. **Python Technical SEO Scraper & Security Auditor** | [GitHub Repo](https://github.com/atiqur-rahman-pro/seo-audit-scraper)
+*Automated Python scrapers and security auditors for deep technical SEO audits, meta hierarchy checks, and link integrity verification.*
 
 ---
 
-## 🌟 Featured Repositories & Key Engineering Projects
+## 💼 Professional Experience
 
-* 🎮 **[claude-bandicoot](https://github.com/atiqur-rahman-pro/claude-bandicoot):** 3D WebGL Browser Platformer Runner Engine built with **Three.js**, procedural 3D modeling, particle systems, and Web Audio API procedural sound synthesis. 👉 **[Play Live Game 🎮](https://atiqur-rahman-pro.github.io/claude-bandicoot/)**
-* 🤖 **[ai-sdet-framework](https://github.com/atiqur-rahman-pro/ai-sdet-framework):** Enterprise AI-Augmented QA Automation & 360° Site Audit Engine. Built with Python, Playwright, Pytest, Claude AI API, Jira REST API, and Locust.
-* ⚡ **[playwright-api-testing-suite](https://github.com/atiqur-rahman-pro/playwright-api-testing-suite):** Zero-Browser Headless REST API Automation Framework built with Playwright `APIRequestContext` & Pytest.
-* 📄 **[cv](https://github.com/atiqur-rahman-pro/cv):** Live Professional Web CV & Interactive Portfolio Engine deployed on GitHub Pages.
+### **Automation Engineer / Senior SDET** | **Intelle Hub Inc** | *Full-time | Mar 2015 – Present (11+ Years)*
+* 🧪 **Enterprise Test Architecture:** Spearhead end-to-end test automation strategies and framework architectures across complex web applications and RESTful microservices, cutting regression cycle time by 75%.
+* ⚡ **Framework Engineering:** Build scalable automated test systems utilizing Python, Selenium WebDriver, Pytest, Playwright, and Rest Assured for 10+ production applications.
+* 📋 **Jira & Bug Lifecycle Integration:** Automate issue triaging by connecting execution scripts directly with Jira Cloud REST APIs (`/rest/api/3/issue`).
+* 🐳 **DevOps, Docker & Jenkins CI/CD:** Architect containerized test automation pipelines using Docker, Jenkins, and GitHub Actions to execute regression suites automatically on every push and PR.
+* 🛡️ **Security & Performance Testing:** Conduct deep security auditing (SQL Injection & XSS vulnerability prevention) and browser performance diagnostics.
 
 ---
 
@@ -82,46 +115,9 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 
 ---
 
-## 💼 Professional Experience
+## 📚 Developer Guides & Articles
 
-### **Senior Software QA & SDET Architect** | *Enterprise Tech Solutions*
-* Designed and executed end-to-end automation frameworks using Playwright and Pytest, cutting manual regression effort by **70%**.
-* Integrated automated security header and technical SEO audits into GitHub Actions CI/CD pipelines.
-* Led root-cause analysis initiatives and established quality gates enforcing 99.9% build reliability.
-
-### **Test Automation Engineer** | *Software Quality Lab*
-* Developed REST API test suites using Python Requests and REST Assured, verifying microservice data payloads.
-* Built mobile responsive viewport test suites for cross-device validation (iOS/Android).
-
----
-
-## 🏆 Verified Licenses & Certifications (15 Total)
-
-### 🐍 **Python Programming (Logical Operations & Python Institute)**
-- 📜 **PCEP: Python Conditionals, Loops, Functions, and Exceptions** | *Credential ID: CAVECYWB33K4*
-- 📜 **PCEP: Python Data Processing** | *Credential ID: OUSRQ2N4KRYX*
-- 📜 **PCEP: Python Setup** | *Credential ID: TGAGSODQDW15*
-
-### 🤖 **AI & Machine Learning (Google & Anthropic Certified)**
-- 🤖 **Claude Platform 101** | Anthropic | *Credential ID: kts8z8ja8m9c*
-- 🤖 **Claude Code 101 (Advanced)** | Anthropic | *Credential ID: 952n42eqxr9x*
-- 🤖 **Claude 101 (Foundational)** | Anthropic | *Credential ID: 75whzvh7gxdh*
-- 💡 **AI for App Building** | Google | *Credential ID: 1BS1KFZVSC0U*
-- 💡 **AI Fundamentals** | Google | *Credential ID: 86YBVLUOCIED*
-- 💡 **AI for Writing and Communicating** | Google | *Credential ID: UU04LRMQ3M4M*
-
-### 🧪 **QA Automation & Test Engineering**
-- 🧪 **Create Your First Automation Script Using Selenium and Java** | Coursera | *Credential ID: RSEYG7E8O5X4*
-- 🔌 **API Testing Using Rest Assured Test Automation Tool** | Coursera | *Credential ID: 822DTNGOJ0XO*
-- 🏅 **Microsoft Open Source Contributor** (Playwright Python) | *PR #3157 & #3159*
-
-### 📊 **Digital Marketing & Analytics (Google & Coursera)**
-- 📈 **Google Analytics Certification (2026)** | Google Skillshop | *Credential ID: 188040194*
-- 📊 **Getting Started in Google Analytics** | Coursera | *Credential ID: AN00C0Z5Q5XD*
-- 🔍 **Search Engine Optimization (SEO) with Squarespace** | Coursera | *Credential ID: AEQO76577Q0R*
-
-### 📋 **Project Management & Agile**
-- 📋 **Get Started with Jira (Kanban & Agile Methodologies)** | Coursera | *Credential ID: 3TCKH7AHUWG4*
+- 📖 **[How to Use Claude API: A Practical Python Developer Guide](https://github.com/atiqur-rahman-pro/cv/blob/main/how-to-use-claude-api.md)** — *Practical guide covering Anthropic Claude 3.5 Sonnet SDK setup, token streaming, structured JSON output, and Jira REST API integration.*
 
 ---
 
@@ -129,12 +125,12 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 
 <div align="center">
 
-### **Designed & Developed by Atiqur Rahman**
-*Senior Software QA & Test Automation Specialist*
+### **Designed & Engineered by Atiqur Rahman**
+*Software QA Engineer | SDET | Test Automation Architect | Microsoft Contributor | Open Source Contributor*
 
-[![Microsoft Playwright](https://img.shields.io/badge/MICROSOFT_PLAYWRIGHT-OPEN_SOURCE_CONTRIBUTOR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)  
-[![GitHub](https://img.shields.io/badge/GITHUB-ATIQUR--RAHMAN--PRO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqur-rahman-pro)
+[![Live Portfolio](https://img.shields.io/badge/PORTFOLIO-ATIQUR--RAHMAN--PRO.GITHUB.IO-2088FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
+[![Live Web CV](https://img.shields.io/badge/WEB_CV-ATIQUR--RAHMAN--PRO.GITHUB.IO%2FCV-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
+[![YouTube Channel](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)  
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
 
 </div>
