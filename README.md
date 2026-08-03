@@ -53,13 +53,18 @@ Results-driven **Senior Software QA Engineer & SDET Architect** with extensive e
 * **Impact:** Fixed a critical live stack frame memory leak in `_sync_base.py` and resolved `UnicodeDecodeError` in `_network.py` for binary request bodies.
 
 ### **5. Pytest Testing Framework (`pytest-dev/pytest`)**
-* **Pull Request:** [#14797](https://github.com/pytest-dev/pytest/pull/14797), [#10721](https://github.com/pytest-dev/pytest/pull/10721)
-* **Impact:** Restructured collection hooks documentation and refactored test discovery reference guides.
+* **Pull Request:** [#14810](https://github.com/pytest-dev/pytest/pull/14810) (**MERGED & BACKPORTED TO PYTEST 9.1.x 💚**), [#14797](https://github.com/pytest-dev/pytest/pull/14797)
+* **Impact:** Fixed pytest core exception formatting; backported as official PR #14831 for Pytest 9.1.x release.
+
+### **6. Jazzband Django Silk (`jazzband/django-silk`)**
+* **Pull Request:** [#895](https://github.com/jazzband/django-silk/pull/895) (**LIVE 🟢**)
+* **Impact:** Configured `pythonpath = project` in `pytest.ini` for seamless root test discovery across Django 5.x/6.x.
 
 ---
 
 ## 🌟 Featured Repositories & Key Engineering Projects
 
+* 🎮 **[claude-bandicoot](https://github.com/atiqur-rahman-pro/claude-bandicoot):** 3D WebGL Browser Platformer Runner Engine built with **Three.js**, procedural 3D modeling, particle systems, and Web Audio API procedural sound synthesis. 👉 **[Play Live Game 🎮](https://atiqur-rahman-pro.github.io/claude-bandicoot/)**
 * 🤖 **[ai-sdet-framework](https://github.com/atiqur-rahman-pro/ai-sdet-framework):** Enterprise AI-Augmented QA Automation & 360° Site Audit Engine. Built with Python, Playwright, Pytest, Claude AI API, Jira REST API, and Locust.
 * ⚡ **[playwright-api-testing-suite](https://github.com/atiqur-rahman-pro/playwright-api-testing-suite):** Zero-Browser Headless REST API Automation Framework built with Playwright `APIRequestContext` & Pytest.
 * 📄 **[cv](https://github.com/atiqur-rahman-pro/cv):** Live Professional Web CV & Interactive Portfolio Engine deployed on GitHub Pages.
