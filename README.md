@@ -96,8 +96,19 @@ Results-driven **Software QA Engineer**, **SDET Architect**, **Test Automation S
 
 [![Claude Bandicoot 3D Game Banner](https://atiqur-rahman-pro.github.io/claude_bandicoot_artwork.jpg)](https://atiqur-rahman-pro.github.io/claude-bandicoot/)
 
-### 8. **django-query-guard (PyPI Package)** | 🛡️ [PyPI Package v0.1.2](https://pypi.org/project/django-query-guard/) | [GitHub Repo](https://github.com/atiqur-rahman-pro/django-query-guard)
-*Ultra-fast, zero-dependency Python & Pytest plugin that automatically detects N+1 database queries and enforces strict query count limits in Django test suites and production backend code.*
+### 8. 🛡️ **django-query-guard (Official PyPI Package)**
+
+> **Stop N+1 database queries before they hit production.**  
+> Ultra-fast, zero-dependency Python & Pytest plugin that automatically detects N+1 database queries and enforces strict query count limits in Django test suites and production backend code.
+
+[![PyPI Version](https://img.shields.io/badge/PyPI-v0.1.2-blue?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/django-query-guard/)
+[![Python Versions](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/django-query-guard/)
+[![Django](https://img.shields.io/badge/Django-4.0%2B-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
+[![Pytest Integration](https://img.shields.io/badge/Pytest-Supported-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-django--query--guard-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqur-rahman-pro/django-query-guard)
+
+- 📦 **PyPI Package:** [`https://pypi.org/project/django-query-guard/`](https://pypi.org/project/django-query-guard/)
+- 🐙 **GitHub Repository:** [`https://github.com/atiqur-rahman-pro/django-query-guard`](https://github.com/atiqur-rahman-pro/django-query-guard)
 
 ---
 
