@@ -96,6 +96,9 @@ Results-driven **Software QA Engineer**, **SDET Architect**, **Test Automation S
 
 [![Claude Bandicoot 3D Game Banner](https://atiqur-rahman-pro.github.io/claude_bandicoot_artwork.jpg)](https://atiqur-rahman-pro.github.io/claude-bandicoot/)
 
+### 8. **django-query-guard (PyPI Package)** | 🛡️ [PyPI Package v0.1.2](https://pypi.org/project/django-query-guard/) | [GitHub Repo](https://github.com/atiqur-rahman-pro/django-query-guard)
+*Ultra-fast, zero-dependency Python & Pytest plugin that automatically detects N+1 database queries and enforces strict query count limits in Django test suites and production backend code.*
+
 ---
 
 ## 💼 Professional Experience
