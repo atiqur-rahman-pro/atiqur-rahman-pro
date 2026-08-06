@@ -91,10 +91,10 @@ Results-driven **Software QA Engineer**, **SDET Architect**, **Test Automation S
 ### 6. **Python Technical SEO Scraper & Security Auditor** | [GitHub Repo](https://github.com/atiqur-rahman-pro/seo-audit-scraper)
 *Automated Python scrapers and security auditors for deep technical SEO audits, meta hierarchy checks, and link integrity verification.*
 
-### 7. **Claude Bandicoot 3D Browser Game** | 🎮 [Play Game Live](https://atiqur-rahman-pro.github.io/claude-bandicoot/) | [GitHub Repo](https://github.com/atiqur-rahman-pro/claude-bandicoot)
+### 7. **Claude Bandicoot 3D Browser Game** | 🎮 [Play Game Live](https://bandicoot-studio.github.io/claude-bandicoot/) | [GitHub Repo](https://github.com/atiqur-rahman-pro/claude-bandicoot)
 *Action-packed 3D browser obstacle game built with WebGL, JavaScript, and HTML5 Canvas featuring physics platforming, crate smashing, gem collection, and high-score HUD.*
 
-[![Claude Bandicoot 3D Game Banner](https://atiqur-rahman-pro.github.io/claude_bandicoot_artwork.jpg)](https://atiqur-rahman-pro.github.io/claude-bandicoot/)
+[![Claude Bandicoot 3D Game Banner](https://atiqur-rahman-pro.github.io/claude_bandicoot_artwork.jpg)](https://bandicoot-studio.github.io/claude-bandicoot/)
 
 ### 8. 🛡️ **django-query-guard (Official PyPI Package)**
 
