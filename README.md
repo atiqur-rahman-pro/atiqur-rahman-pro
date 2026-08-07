@@ -77,7 +77,7 @@ Results-driven **Software QA Engineer**, **SDET Architect**, **Test Automation S
 - Automated 12 diagnostic checks across Security (HTTPS/Headers), Performance (Navigation Timing API), and SEO.
 - Integrated Allure Reporting & GitHub Actions CI/CD for automated weekly audit runs.
 
-### 3. **Enterprise Todo App & Playwright Automated Test Suite** | [GitHub Repo](https://github.com/atiqur-rahman-pro/todo-app)
+### 3. **Enterprise Todo App & Playwright Automated Test Suite** | [GitHub Repo](https://github.com/atiqur-rahman-pro/qa-automation-framework)
 *Built a modern web-based task management application paired with an automated Playwright & Pytest end-to-end regression testing framework.*
 - Engineered E2E test scripts covering task creation, inline editing, completion toggles, state persistence (LocalStorage), and filter controls.
 - Configured cross-browser testing across Chromium, Firefox, and WebKit viewports executing automatically in GitHub Actions.
