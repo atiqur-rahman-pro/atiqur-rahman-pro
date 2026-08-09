@@ -1,15 +1,20 @@
 <div align="center">
 
-# Atiqur Rahman
-### **Software QA Engineer | SDET | Test Automation Architect | Microsoft Contributor | Open Source Contributor**
+# 👋 Hi, I'm **Atiqur Rahman**
+### 🚀 **Senior Software QA Engineer | SDET | Test Automation Architect | Open Source Contributor**
 
-📍 Dhaka, Bangladesh | ✉️ [rahman.atiqur.pro@gmail.com](mailto:rahman.atiqur.pro@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/atiqur-rahman-pro) | 🐙 [GitHub Profile](https://github.com/atiqur-rahman-pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+QA+Engineer+%26+SDET+Architect;Microsoft+Playwright+%26+Pytest+Core+Contributor;AI-Augmented+QA+Automation+%26+CI%2FCD+Practitioner;Full-Stack+Web+%26+Python+Library+Developer)](https://github.com/atiqur-rahman-pro)
+
+📍 **Dhaka, Bangladesh** | ✉️ **[rahman.atiqur.pro@gmail.com](mailto:rahman.atiqur.pro@gmail.com)**
+
+[![Live Web CV](https://img.shields.io/badge/%F0%9F%8C%90_Live_Web_CV-atiqur--rahman--pro.github.io%2Fcv-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atiqur--rahman--pro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
+[![Wellfound](https://img.shields.io/badge/Wellfound-atiqur--rahman--pro-red?style=for-the-badge&logo=wellfound&logoColor=white)](https://wellfound.com/u/atiqur-rahman-pro)
+[![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
 
 [![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
 [![Pytest Core Contributor](https://img.shields.io/badge/Pytest-Core_Contributor-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/pytest-dev/pytest/pull/14804)
-[![Live Portfolio Website](https://img.shields.io/badge/Live_Portfolio-atiqur--rahman--pro.github.io-2088FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
-[![Live Web CV](https://img.shields.io/badge/Live_CV-atiqur--rahman--pro.github.io%2Fcv-success?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
-[![YouTube](https://img.shields.io/badge/YouTube-Digital_Digest_Live-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digital_Digest_Live)
+[![django-query-guard PyPI](https://img.shields.io/badge/PyPI-django--query--guard-blue?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/django-query-guard/)
 
 ---
 
