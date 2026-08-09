@@ -48,6 +48,18 @@ Browser-native 3D platformer runner game built with WebGL, Three.js, and procedu
 
 ---
 
+## 📊 GitHub Live Activity & Contributions
+
+<div align="center">
+
+[![Atiqur's GitHub Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atiqur-rahman-pro&theme=github-dark)](https://github.com/atiqur-rahman-pro)
+
+[![Atiqur's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atiqur-rahman-pro&theme=dark&hide_border=true)](https://github.com/atiqur-rahman-pro)
+
+</div>
+
+---
+
 ## 📄 Full Resume & Web CV
 View my complete interactive resume, 15 professional certifications, and detailed experience at:  
 👉 **[atiqur-rahman-pro.github.io/cv](https://atiqur-rahman-pro.github.io/cv/)**
