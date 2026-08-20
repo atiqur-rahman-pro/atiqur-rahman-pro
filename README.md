@@ -57,6 +57,8 @@ Browser-native 3D platformer runner game built with WebGL, Three.js, and procedu
 [![PyPI Packages](https://img.shields.io/badge/PyPI_Packages-django--query--guard-green?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/django-query-guard/)
 [![Certifications](https://img.shields.io/badge/Certifications-15_Verified-orange?style=for-the-badge&logo=google&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/#certifications)
 
+![GitHub contribution activity](https://streak-stats.demolab.com?user=atiqur-rahman-pro&theme=transparent&hide_border=true&card_width=500)
+
 </div>
 
 ---
