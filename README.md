@@ -14,6 +14,8 @@
 [![Microsoft Contributor](https://img.shields.io/badge/Microsoft_Playwright-Open_Source_Contributor-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/playwright-python/pull/3157)
 [![Pytest Contributor](https://img.shields.io/badge/Pytest-Core_Contributor-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/pytest-dev/pytest/pull/14804)
 [![GitHub Pull Shark](https://img.shields.io/badge/GitHub-Pull_Shark_x2-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiqur-rahman-pro)
+[![HackerRank Go](https://img.shields.io/badge/HackerRank-Go_(Intermediate)-00ADD8?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/9811D0D4B5A3)
+[![Microsoft Cybersecurity](https://img.shields.io/badge/Microsoft-Cybersecurity_Essentials-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/atiqur-rahman-pro)
 
 [![Live Web CV](https://img.shields.io/badge/Live_Web_CV-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/cv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-atiqur--rahman--pro.github.io-2088FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://atiqur-rahman-pro.github.io/)
@@ -36,6 +38,9 @@ Official **Keycloak Core Contributor (Rank #40 on Keycloak Contributors graph wi
 * **PR [#53279](https://github.com/keycloak/keycloak/pull/53279):** Bound LDAP StartTLS socket teardown to eliminate deadlocks (`Merged into main`, commit `3a2ecae`). Engineered a multi-threaded loopback socket test harness verifying zero socket-leak under concurrent tear-down scenarios (passed 30 consecutive stability runs).
 * **PR [#53281](https://github.com/keycloak/keycloak/pull/53281):** Resolved SAML broker logout failure when Single Logout Service (SLS) URL is empty (`Merged into main`, commit `8eab1ae`).
 * **PR [#53355](https://github.com/keycloak/keycloak/pull/53355):** Implemented PgBouncer high-availability database failover mechanics and connection pooling documentation (`Merged into main`, commit `c0ac727`).
+* **PR [#53995](https://github.com/keycloak/keycloak/pull/53995):** Set default Bearer `token_type` in identity brokering token responses (`Approved by Pedro Igor, Auto-merge enabled`).
+* **PR [#54075](https://github.com/keycloak/keycloak/pull/54075):** Added SAML broker regression tests for incomplete `SubjectConfirmationData` (`Assigned by Maintainers, 71/71 CI checks green`).
+* **PR [#54194](https://github.com/keycloak/keycloak/pull/54194):** Return RFC 6749 OAuth error codes in authorization endpoint JSON responses (`Fixes #54134, 81/81 CI checks green`).
 
 ### 2. 🔹 **Microsoft Playwright Python (`microsoft/playwright-python`)**
 * **PRs [#3157](https://github.com/microsoft/playwright-python/pull/3157), [#3159](https://github.com/microsoft/playwright-python/pull/3159), [#3156](https://github.com/microsoft/playwright-python/pull/3156):**
@@ -47,6 +52,9 @@ Official **Keycloak Core Contributor (Rank #40 on Keycloak Contributors graph wi
 
 ### 4. 🔹 **Django Ecosystem**
 * **PR [#895](https://github.com/jazzband/django-silk/pull/895) (`jazzband/django-silk`):** Restructured root test runner discovery for modern Django versions (`Merged`).
+
+### 5. 🔹 **TypeORM (`typeorm/typeorm`)**
+* **PR [#12974](https://github.com/typeorm/typeorm/pull/12974):** Preserved join call order in QueryBuilder for accurate SQL generation (`Fixes #12973`).
 
 ---
 
@@ -76,7 +84,7 @@ Browser-native 3D platformer runner game built with WebGL, Three.js, and procedu
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Automation Architecture** | **Playwright**, **Pytest Core**, Selenium WebDriver, REST Assured, Appium 2.0, POM Architecture |
-| **Languages & Concurrency** | **Python** (PCEP Certified), **Java** (Concurrency, Sockets, JUnit 5), JavaScript/TypeScript, SQL |
+| **Languages & Concurrency** | **Go (Golang)** (HackerRank Certified Intermediate), **Python** (PCEP Certified), **Java** (Concurrency, Sockets, JUnit 5), JavaScript/TypeScript, SQL |
 | **IAM & Protocols** | **Keycloak**, SAML 2.0, LDAP / StartTLS, OIDC, OAuth2, Database Failover (PgBouncer HA) |
 | **DevOps & CI/CD** | **Docker**, **GitHub Actions**, Jenkins Pipelines, Linux, Allure TestOps, Git |
 | **GenAI & LLM Operations** | Anthropic Claude API, Google Gemini API, Automated Bug Triaging & Root-Cause Analysis |
