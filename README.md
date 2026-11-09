@@ -4,7 +4,7 @@
 > Keycloak Core Contributor (Rank #40) | Microsoft Playwright & Pytest Contributor | PyPI Package Author (`django-query-guard`)
 
 📍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** [rahman.atiqur.pro@gmail.com](mailto:rahman.atiqur.pro@gmail.com)  
+📧 **Email:** [rahman.arpro@gmail.com](mailto:rahman.arpro@gmail.com)  
 
 ---
 
